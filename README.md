@@ -34,4 +34,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/binarybelt/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/binarybelt/leetcode-solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 <!---LeetCode Topics End-->
