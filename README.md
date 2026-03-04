@@ -17,6 +17,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/binarybelt/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1603-running-sum-of-1d-array](https://github.com/binarybelt/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/binarybelt/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/binarybelt/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/binarybelt/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
