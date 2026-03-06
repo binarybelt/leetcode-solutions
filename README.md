@@ -38,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/binarybelt/leetcode-solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/binarybelt/leetcode-solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Binary Search
 |  |
