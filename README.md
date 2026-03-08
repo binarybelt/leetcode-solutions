@@ -18,6 +18,7 @@
 | [0658-find-k-closest-elements](https://github.com/binarybelt/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1603-running-sum-of-1d-array](https://github.com/binarybelt/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/binarybelt/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+| [2107-find-unique-binary-string](https://github.com/binarybelt/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/binarybelt/leetcode-solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/binarybelt/leetcode-solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2107-find-unique-binary-string](https://github.com/binarybelt/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +54,12 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/binarybelt/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Hash Table
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/binarybelt/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/binarybelt/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
